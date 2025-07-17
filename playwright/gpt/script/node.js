@@ -15,7 +15,7 @@ const cardData = [
   { url: 'https://aiplayground-prod1.stanford.edu/c/963e79f8-e56c-4db3-b4a5-4940e9166052', label: 'Card for IMG 1', exact: true },
   { url: 'https://aiplayground-prod1.stanford.edu/c/9c5e5132-bd3d-43c0-9b2c-86ff117aae76', label: 'Card for IMG 3 V2' }
 ];
-
+//I LOVE PLAYWRIGHT
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
